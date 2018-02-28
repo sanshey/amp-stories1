@@ -1,0 +1,26 @@
+{
+  "share-providers": {
+    "facebook": true,
+    "twitter": true,
+    "email": true
+  },
+  "related-articles": {
+    "Stories": [
+      {
+        "title": "Final match",
+        "url": "link",
+        "image": "assets/basketball.png"
+      },
+      {
+        "title": "Arctic race",
+        "url": "link",
+        "image": "assets/arctic.gif"
+      },
+      {
+        "title": "Voice V/S touch",
+        "url": "link",
+        "image": "assets/voice.png"
+      }
+    ]
+  }
+}
